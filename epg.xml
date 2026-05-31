@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+
+  <channel id="fs1.us">
+    <display-name>FOX Sports 1</display-name>
+  </channel>
+
+  <programme start="20260601080000 -0400" stop="20260601100000 -0400" channel="fs1.us">
+    <title>Breakfast Ball</title>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260601100000 -0400" stop="20260601120000 -0400" channel="fs1.us">
+    <title>The Herd with Colin Cowherd</title>
+    <category>Sports Talk</category>
+  </programme>
+
+</tv>
